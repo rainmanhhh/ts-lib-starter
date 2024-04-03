@@ -10,6 +10,7 @@
 
 - Search `my-ts-lib` and replace it with your custom package name.
 - Search `egoist` and replace it with your name.
+- If it's not a CLI tool, please remove the 'bin' field and the 'commander' dependency from the package.json file.
 
 Features:
 
